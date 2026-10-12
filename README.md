@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @optimized-code
-- 👀 I’m interested in Kotlin and Swift
-- 🌱 I’m currently learning kotlin, clean architecture and Jetpack compose to create an industry standard app in android
+- 👀 I’m interested in Dart, Kotlin, Swift, C#
+- 🌱 I’m an expert in clean architecture, Jetpack compose to create an industry standard app in Android
+- 🌱 I’m an expert in clean architecture, Dart Flutter to create an industry standard app for iOS and Android
 - 💞️ I’m looking to collaborate on writing unit tests and instrumentation tests
 - 📫 How to reach me.
 - EMAIL: ehtisham.ahmad89@gmail.com
